@@ -8,7 +8,7 @@ Many of the methods are reproductions of existing work, and in many cases includ
 This repository is intended as a personal reference for my own work and research, and will continue to expand over time as new ideas, techniques, and insights are added.
 
 
-## Table of Contents (April 14, 2026)
+## Table of Contents (May 1, 2026)
 
 1. [Order Statistics-Based Jump Identification and Volatility Estimation](https://github.com/BenjaminZYT/Risk-Management/blob/main/Order_Statistics_Jump_Filtering_and_Volatility.ipynb)
 
@@ -17,3 +17,5 @@ This repository is intended as a personal reference for my own work and research
 3. [Directed Influence Networks in Financial Systems: Granger Causality and Transfer Entropy, Part 1](https://github.com/BenjaminZYT/Risk-Management/blob/main/Directed_Influence_Networks_Granger_Causality_and_Transfer_Entropy_Part1.ipynb)
 
 4. [Directed Influence Networks in Financial Systems: Granger Causality and Transfer Entropy, Part 2](https://github.com/BenjaminZYT/Risk-Management/blob/main/Directed_Influence_Networks_Granger_Causality_and_Transfer_Entropy_Part2.ipynb)
+
+5. [VAR - 01 The Three Baseline VaRs](https://github.com/BenjaminZYT/Risk-Management/blob/main/VaRs_and_CVaRs/01_The_Baseline_VaRs.ipynb) (This notebook is contained in the `VaRs_and_CVaRs` subfolder.)
