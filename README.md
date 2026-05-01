@@ -18,4 +18,4 @@ This repository is intended as a personal reference for my own work and research
 
 4. [Directed Influence Networks in Financial Systems: Granger Causality and Transfer Entropy, Part 2](https://github.com/BenjaminZYT/Risk-Management/blob/main/Directed_Influence_Networks_Granger_Causality_and_Transfer_Entropy_Part2.ipynb)
 
-5. [VAR - 01 The Three Baseline VaRs](https://github.com/BenjaminZYT/Risk-Management/blob/main/VaRs_and_CVaRs/01_The_Baseline_VaRs.ipynb) (This notebook is contained in the `VaRs_and_CVaRs` subfolder.)
+5. [VaR - 01 The Three Baseline VaRs](https://github.com/BenjaminZYT/Risk-Management/blob/main/VaRs_and_CVaRs/01_The_Baseline_VaRs.ipynb) (This notebook is contained in the `VaRs_and_CVaRs` subfolder.)
