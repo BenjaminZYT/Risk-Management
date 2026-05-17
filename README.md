@@ -21,3 +21,6 @@ This repository is intended as a personal reference for my own work and research
 5. [VaR - 01 The Three Baseline VaRs](https://github.com/BenjaminZYT/Risk-Management/blob/main/VaRs_and_CVaRs/01_The_Baseline_VaRs.ipynb) (This notebook is contained in the `VaRs_and_CVaRs` subfolder.)
 
 6. [VaR - 02_The_Kupiec_and_Christoffersen_Tests](https://github.com/BenjaminZYT/Risk-Management/blob/main/VaRs_and_CVaRs/02_The_Kupiec_and_Christoffersen_Tests.ipynb) (This notebook is contained in the `VaRs_and_CVaRs` subfolder.)
+
+7. [Return_Votality_Scatter_Plot_Animation](https://github.com/BenjaminZYT/Risk-Management/blob/main/Return_Votality_Scatter_Plot.ipynb)
+   Note on Running the Notebook: GitHub displays `.ipynb` files as static documents, so the widget panels will not be interactive in the GitHub preview. To use the notebook properly, download it and run it in Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
